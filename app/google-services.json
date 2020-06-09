@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423610503937",
+    "firebase_url": "https://language-166a7.firebaseio.com",
+    "project_id": "language-166a7",
+    "storage_bucket": "language-166a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423610503937:android:09afc85c5b0889c64ac100",
+        "android_client_info": {
+          "package_name": "com.example.sakshigupta.languageidentificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423610503937-l2qsvckfeaimg0casesk3pp0b9vrcs3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sakshigupta.languageidentificationapp",
+            "certificate_hash": "8749e8591fdc3db9ce2451d17c73725841e7f0f8"
+          }
+        },
+        {
+          "client_id": "423610503937-jr58d2pi7i0e94vq61q180pg6342c2k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGXdwQi7bYVI-3Y07GiKM9Lsn739ExVz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423610503937-jr58d2pi7i0e94vq61q180pg6342c2k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
